@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.DeliveryCardTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-02-06T16:06:12" hostname="DESKTOP-M5FO4BD" time="19.619">
+  <properties/>
+  <testcase name="shouldSubmitEmptyCity()" classname="ru.netology.DeliveryCardTest" time="3.151"/>
+  <testcase name="shouldSubmitEmptyDate()" classname="ru.netology.DeliveryCardTest" time="0.872"/>
+  <testcase name="shouldSubmitEmptyName()" classname="ru.netology.DeliveryCardTest" time="0.879"/>
+  <testcase name="shouldSubmitWrongPhone()" classname="ru.netology.DeliveryCardTest" time="0.938"/>
+  <testcase name="shouldSubmitWrongCity()" classname="ru.netology.DeliveryCardTest" time="0.896"/>
+  <testcase name="shouldSubmitAgreement()" classname="ru.netology.DeliveryCardTest" time="0.919"/>
+  <testcase name="shouldSubmitSuccessRequest()" classname="ru.netology.DeliveryCardTest" time="11.121"/>
+  <testcase name="shouldSubmitEmptyPhone()" classname="ru.netology.DeliveryCardTest" time="0.84"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 23 - let's create a new webdriver
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 88.0.4324.96 (since Google Chrome 88 is installed in your machine)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\OMV\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 11471
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+февр. 06, 2021 7:06:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Test worker] INFO com.codeborne.selenide.webdriver.BrowserResizer - Set browser size to 1366x768
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=88.0.4324.150 Platform=WINDOWS
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 5.11.0
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 23: ChromeDriver -> ChromeDriver: chrome on WINDOWS (f43c5c2ce72b19b23704aff19267a832)
+]]></system-err>
+</testsuite>
